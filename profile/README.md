@@ -54,7 +54,12 @@
 - Storybook
 
 ### Backend
-- *(정의 예정)*
+- java
+- spring boot
+- postgreSQL (flyway db마이그레이션) 
+- AWS EC2(서버), s3(배포 / 파일(이미지) 저장소), RDS(DB)
+- AWS CodeDeploy + 깃허브 액션
+
 
 ### Design
 - Figma
